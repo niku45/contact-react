@@ -2,6 +2,9 @@
 
 Bootstrapped React Project.
 
+This a contact manager that stores/saves the the files in your local storage. The contact files won't be deleted unless you do so.
+
+
 ## Live DEMO
 https://niku45.github.io/contact-react/
 
